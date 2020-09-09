@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Failed</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>02a01356-cefa-41d1-9dd4-f5c0aa521e1a</testSuiteGuid>
+   <testCaseLink>
+      <guid>bf56f885-6274-4f61-ae3c-7716677e8608</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Failed/TC_Failed_checkout</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>85e4e52b-fd17-435f-a9b6-a0afb846e9e0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Failed/TC_Failed_Payment</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f7fba7a5-0fde-407b-9b51-a21cff1612dc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f5e968d8-5eb3-4b91-af2d-6c72b067bcf9</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b64a8115-2b95-489a-bd53-8e5da2e22a64</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Failed/TC_Failed_Popup</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a1eb9bae-5ec2-4491-84af-9a5fce34a12a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b5aac80d-dd6c-4fa1-a5d0-a95a3cd062f4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c596565b-64b4-4c73-9d92-ae4f8a693f3e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ba94ba44-fd18-4ee4-a05c-68a509a12f36</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>aee1f4a9-efcb-45de-a40b-449ebfa4106f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>db7b612e-9c63-425e-99b5-08fb58b4e79e</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d33109d8-8741-4f13-ba45-d4fde0604a4a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Failed/TC_Failed_Issue_bank</testCaseId>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Failed_Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38ce138a-f2c8-432f-a239-6fb4fc2bd330</testCaseGuid>
+   <variable>
+      <defaultValue>'ronn@gmail.com'</defaultValue>
+      <description></description>
+      <id>f7fba7a5-0fde-407b-9b51-a21cff1612dc</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'+6281808466410'</defaultValue>
+      <description></description>
+      <id>f5e968d8-5eb3-4b91-af2d-6c72b067bcf9</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+</TestCaseEntity>

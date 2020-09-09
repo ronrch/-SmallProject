@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Success_Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ef4000d-b330-4585-9837-40396f7de762</testCaseGuid>
+   <variable>
+      <defaultValue>'ronn@gmail.com'</defaultValue>
+      <description></description>
+      <id>d6550169-869d-4dab-b9ef-d643e9969624</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'+6281808466410'</defaultValue>
+      <description></description>
+      <id>57aed25a-1fb0-47c3-99bd-14b0846af380</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+</TestCaseEntity>
